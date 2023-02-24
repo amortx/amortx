@@ -12,7 +12,8 @@
   <a href= "https://github.com/amortx"><img width="300" src="assets/coder.gif"></a>
 </p>
 
-## <img style="filter: drop-shadow(1000px 0 0 #4285F4); transform: translate(-1000px);" src="assets/googlescholar.svg" width="30"> Research Direction
+
+## ![](assets/google-scholar.svg) Research Direction
 <!-- <img src="assets/googlescholar.svg#gh-dark-mode-only" width="30"> -->
 <!-- #gh-light-mode-only -->
 <h5>
@@ -21,17 +22,18 @@
 </h5>
 
 ## Deep Learning
-
+<div>
 <img width="30" src="assets/pytorch.svg">
 <img width="33" src="assets/tensorflow.svg">
 <img width="33" src="assets/numpy.svg">
 <img width="33" src="assets/opencv.svg">
 <img width="33" src="assets/pandas.svg">
-
+</div>
 
 
 ## Tech Stack
 ### Program
+<div>
 <img width="33" src="assets/bash.svg">
 <img width="33" src="assets/anaconda.svg">
 <img width="33" src="assets/c.svg">
@@ -42,42 +44,47 @@
 <img width="33" src="assets/javascript.gif">
 <img width="33" src="assets/java.gif">
 <img width="33" src="assets/python.gif">
-
+</div>
 
 ### BigData
+<div>
 <img width="48" src="assets/hadoop.svg">
-
 <img style="filter: drop-shadow(1000px 0 0 #231F20); transform: translate(-1000px);" src="assets/kafka.svg" width="30">
-
+</div>
 
 ### Front-end
+<div>
 <img width="48" src="assets/django.svg">
 <img width="48" src="assets/flask.svg">
 <img width="48" src="assets/nodejs.svg">
 <img width="48" src="assets/npm.svg">
 <img width="40" src="assets/vuejs.svg">
-
+</div>
 
 ### Back-end
+<div>
 <img width="42" src="assets/spring.svg">
 <img style="filter: drop-shadow(1000px 0 0 #6DB33F); transform: translate(-1000px);" src="assets/springboot.svg" width="42">
-
+</div>
 
 ### Middleware
+<div>
 <img style="filter: drop-shadow(1000px 0 0 #231F20); transform: translate(-1000px);" src="assets/kafka.svg" width="30">
 <img width="33" src="assets/nginx.svg">
-
+</div>
 
 ### Databases
+<div>
 <img width="33" src="assets/mariadb.svg">
 <img width="33" src="assets/mongodb.svg">
 <img width="33" src="assets/mysql.svg">
 <img width="33" src="assets/postgresql.svg">
 <img width="33" src="assets/redis.svg">
 <img width="33" src="assets/mariadb.svg">
-
+</div>
 
 ### Tools
+<div>
 <img width="35" src="assets/linux.png">
 <img width="33" src="assets/centos.png">
 <img width="33" src="assets/ubuntu.png">
@@ -95,20 +102,20 @@
 <img width="30" src="assets/tableau.svg">
 <img width="33" src="assets/visio.svg">
 <img width="33" src="assets/vscode.svg">
-
+</div>
 
 ### others
+<div>
 <img width="33" src="assets/epic.svg">
 <img width="33" src="assets/steam.svg">
 <img width="33" src="assets/playstation.svg">
 <img width="33" src="assets/switch.svg">
 <img width="33" src="assets/itunes.svg">
 <img width="33" src="assets/netflix.gif">
-
-
-
+</div>
 
 ## Exploring
+<div>
 <img style="filter: drop-shadow(1000px 0 0 #61DAFB); transform: translate(-1000px);" src="assets/react.svg" width="30">
 <img width="33" src="assets/golang.svg">
 <img width="58" src="assets/flink.svg">
@@ -116,14 +123,18 @@
 <img width="33" src="assets/rust.svg">
 <img width="33" src="assets/swift.svg">
 <img width="33" src="assets/typescript.svg">
+</div>
 
-<img align="middle" width="600" src="assets/middleware.svg">
-
+<div align="center">
+<img align="middle" width="600" src="assets/middleware.svg#gh-light-mode-only">
+<img align="middle" width="600" src="assets/middleware-dark.svg#gh-dark-mode-only">
+</div>
 
 
 <div align="center">
     <a href="https://github.com/amortx"><img  width="33" src="assets/gmail.svg"/></img></a>
-    <a href="https://github.com/amortx"><img  width="33" src="assets/telegram.gif"/></img></a>
+    <a href="https://github.com/amortx"><img  width="33" src="assets/telegram.gif#gh-light-mode-only"/></img></a>
+    <a href="https://github.com/amortx"><img  width="33" src="assets/telegram-dark.svg#gh-dark-mode-only"/></img></a>
 </div>
 
 ### GitHub stats
@@ -160,7 +171,6 @@
     <a href= "https://github.com/amortx/python">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=amortx&repo=python" >
   </a>
-  </h4>
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amortx&repo=coding-interview-university)](https://github.com/amortx/coding-interview-university)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amortx&repo=OI-wiki)](https://github.com/amortx/OI-wiki)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amortx&repo=python)](https://github.com/amortx/python)
@@ -183,12 +193,13 @@ Others                31 mins   ██░░░░░░░░░░░░░░
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=amortx"/></div>
 
+<div>
 [![](https://img.shields.io/github/followers/amortx?style=social)](https://github.com/amortx)
 
 [![](https://img.shields.io/badge/Follow@amortx-2921-%23FD415E?&logo=github)](https://github.com/amortx)
 [![TOP](https://img.shields.io/badge/amor-tx-blue?style=social&logo=apple)](#welcome-to-my-home-pages)
 [![](https://visitor-badge.glitch.me/badge?page_id=amortx.amortx)](https://github.com/amortx)
-
+</div>
 <!--
 **amortx/amortx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
