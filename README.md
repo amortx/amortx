@@ -126,7 +126,7 @@
 
 <div align="center">
 <img align="middle" width="600" src="https://github.com/amortx/amortx/blob/main/assets/middleware.svg#gh-light-mode-only">
-<img align="middle" width="600" style="filter: drop-shadow(1000px 0 0 #61DAFB); transform: translate(-1000px);" src="https://github.com/amortx/amortx/blob/main/assets/middleware-dark.svg#gh-dark-mode-only">
+<img align="middle" width="600" style="filter: drop-shadow(1000px 0 0 #6DB33F); transform: translate(-1000px);" src="https://github.com/amortx/amortx/blob/main/assets/middleware.svg#gh-dark-mode-only">
 </div>
 
 
