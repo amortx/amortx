@@ -53,7 +53,7 @@
 ### BigData
 <div>
 <img width="48" src="https://github.com/amortx/amortx/blob/main/assets/hadoop.svg">
-<img style="filter: drop-shadow(1000px 0 0 #231F20); transform: translate(-1000px);" src="https://github.com/amortx/amortx/blob/main/assets/kafka.svg" width="30">
+<img width="48" src="https://github.com/amortx/amortx/blob/main/assets/kafka.svg">
 </div>
 
 ### Front-end
@@ -68,12 +68,12 @@
 ### Back-end
 <div>
 <img width="42" src="https://github.com/amortx/amortx/blob/main/assets/spring.svg">
-<img style="filter: drop-shadow(1000px 0 0 #6DB33F); transform: translate(-1000px);" src="https://github.com/amortx/amortx/blob/main/assets/springboot.svg" width="42">
+<img width="42" src="https://github.com/amortx/amortx/blob/main/assets/springboot.svg" >
 </div>
 
 ### Middleware
 <div>
-<img style="filter: drop-shadow(1000px 0 0 #231F20); transform: translate(-1000px);" src="https://github.com/amortx/amortx/blob/main/assets/kafka.svg" width="30">
+<img width="48" src="https://github.com/amortx/amortx/blob/main/assets/kafka.svg">
 <img width="33" src="https://github.com/amortx/amortx/blob/main/assets/nginx.svg">
 </div>
 
@@ -125,7 +125,7 @@
 
 ## Exploring
 <div>
-<img style="filter: drop-shadow(1000px 0 0 #61DAFB); transform: translate(-1000px);" src="https://github.com/amortx/amortx/blob/main/assets/react.svg" width="30">
+<img width="33" src="https://github.com/amortx/amortx/blob/main/assets/react.svg" >
 <img width="33" src="https://github.com/amortx/amortx/blob/main/assets/golang.svg">
 <img width="58" src="https://github.com/amortx/amortx/blob/main/assets/flink.svg">
 <img width="33" src="https://github.com/amortx/amortx/blob/main/assets/kubernetes.svg">
@@ -136,14 +136,15 @@
 
 <div align="center">
 <img align="middle" width="600" src="https://github.com/amortx/amortx/blob/main/assets/middleware.svg#gh-light-mode-only">
-<img align="middle" width="600" style="filter: drop-shadow(1000px 0 0 #6DB33F); transform: translate(-1000px);" src="https://github.com/amortx/amortx/blob/main/assets/middleware.svg#gh-dark-mode-only">
+<img align="middle" width="600"  src="https://github.com/amortx/amortx/blob/main/assets/middleware-dark.svg#gh-dark-mode-only">
+<!--   style="filter: drop-shadow(1000px 0 0 #6DB33F); transform: translate(-1000px);" -->
 </div>
 
 
 <div align="center">
-    <a href="https://github.com/amortx"><img  width="33" src="https://github.com/amortx/amortx/blob/main/assets/gmail.svg"/></img></a>
-    <a href="https://github.com/amortx"><img  width="33" src="https://github.com/amortx/amortx/blob/main/assets/telegram.gif#gh-light-mode-only"/></img></a>
-    <a href="https://github.com/amortx"><img  width="33" src="https://github.com/amortx/amortx/blob/main/assets/twitter.svg#gh-dark-mode-only"/></img></a>
+    <a href="https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/main/assets/gmail.svg"/></img></a>
+    <a href="https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/main/assets/telegram.gif"/></img></a>
+    <img width="33" src="https://github.com/amortx/amortx/blob/main/assets/twitter.svg#gh-dark-mode-only"/></img>
 </div>
 
 ### GitHub stats <img width="48" src="https://github.com/amortx/amortx/blob/main/assets/taxi-var.png">
