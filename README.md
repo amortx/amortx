@@ -205,15 +205,16 @@ Others                31 mins   ██░░░░░░░░░░░░░░
 
 <div align="center"><img src="https://github.com/amortx/amortx/blob/main/assets/github-contribution-grid-snake.svg" /></div>
 
-<div>
+
 
 [![](https://img.shields.io/github/followers/amortx?style=social)](https://github.com/amortx)
 
 [![](https://img.shields.io/badge/Follow@amortx-2921-%23FD415E?&logo=github)](https://github.com/amortx)
 [![TOP](https://img.shields.io/badge/amor-tx-blue?style=social&logo=apple)](#welcome-to-my-home-pages)
+
 [![](https://visitor-badge.glitch.me/badge?page_id=amortx.amortx)](https://github.com/amortx)
 
-</div>
+
 
 <!--
 **amortx/amortx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
