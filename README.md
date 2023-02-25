@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href= "https://github.com/amortx"><img src="https://github.com/amortx/amortx/blob/main/assets/program.png"/></a>
+<a href= "https://github.com/amortx"><img src="https://github.com/amortx/amortx/blob/master/header.png"/></a>
 </p>
 
   <!-- <a href= "https://github.com/amortx"><img align="center" src="assets/program.png"></a> -->
