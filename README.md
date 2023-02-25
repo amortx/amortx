@@ -1,9 +1,11 @@
 # Welcome to My Home Pages
 
 <!--  [![](https://github.com/amortx/amortx/blob/main/assets/program.png)](https://github.com/amortx)  -->
+
 <p align="center">
   <a href= "https://github.com/amortx"><img src="https://github.com/amortx/amortx/blob/main/assets/program.png"/></a>
 </p>
+
   <!-- <a href= "https://github.com/amortx"><img align="center" src="assets/program.png"></a> -->
 
 ---
@@ -12,7 +14,9 @@
   <a href= "https://github.com/amortx"><img width="100" src="https://github.com/amortx/amortx/blob/main/assets/taxi-print.png"></a>
 <p>
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=times&weight=500&pause=1000&color=004088&center=true&vCenter=true&multiline=true&height=65&lines=This+is+amortx's+github+homepage;Welcome+to+My+Home+Page)](https://amortx.github.io/amortx)
+
 
 <p align="center">
   <a href= "https://github.com/amortx"><img width="300" src="https://github.com/amortx/amortx/blob/main/assets/coder.gif"></a>
@@ -20,6 +24,7 @@
 
 
 ## <a href= "https://github.com/amortx"><img width="30" src="https://github.com/amortx/amortx/blob/main/assets/google-scholar.svg"></a> Research Direction
+
 <!-- <img src="assets/googlescholar.svg#gh-dark-mode-only" width="30"> -->
 <!-- #gh-light-mode-only -->
 
@@ -27,6 +32,7 @@
 
 
 ## Deep Learning
+
 <p>
   <a href= "https://github.com/amortx"><img width="30" src="https://github.com/amortx/amortx/blob/main/assets/pytorch.svg"></a>
   <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/main/assets/tensorflow.svg"></a>
@@ -39,6 +45,7 @@
 ## Tech Stack <img width="100" src="https://github.com/amortx/amortx/blob/main/assets/taxi-function.png">
 
 ### Program
+
 <p>
   <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/main/assets/bash.svg"></a>
   <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/main/assets/c.svg"></a>
@@ -52,12 +59,15 @@
 </p>
 
 ### BigData
+
 <p>
   <a href= "https://github.com/amortx"><img width="48" src="https://github.com/amortx/amortx/blob/main/assets/hadoop.svg"></a>
   <a href= "https://github.com/amortx"><img width="48" src="https://github.com/amortx/amortx/blob/main/assets/kafka.svg"></a>
 </p>
 
 ### Front-end
+
+
 <p>
   <a href= "https://github.com/amortx"><img width="48" src="https://github.com/amortx/amortx/blob/main/assets/django.svg"></a>
   <a href= "https://github.com/amortx"><img width="48" src="https://github.com/amortx/amortx/blob/main/assets/flask.svg"></a>
@@ -66,7 +76,9 @@
   <a href= "https://github.com/amortx"><img width="40" src="https://github.com/amortx/amortx/blob/main/assets/vuejs.svg"></a>
 </p>
 
+
 ### Back-end
+
 <p>
   <a href= "https://github.com/amortx"><img width="42" src="https://github.com/amortx/amortx/blob/main/assets/spring.svg"></a>
   <a href= "https://github.com/amortx"><img width="42" src="https://github.com/amortx/amortx/blob/main/assets/springboot.svg" ></a>
@@ -79,6 +91,7 @@
 </p>
 
 ### Databases
+
 <p>
   <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/main/assets/mariadb.svg"></a>
   <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/main/assets/mongodb.svg"></a>
@@ -88,6 +101,7 @@
 </p>
 
 ### Tools
+
 <p>
   <a href= "https://github.com/amortx"><img width="35" src="https://github.com/amortx/amortx/blob/main/assets/linux.png"></a>
   <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/main/assets/centos.png"></a>
@@ -109,6 +123,7 @@
 </p>
 
 ### others
+
 <p>
   <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/main/assets/epic.svg"></a>
   <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/main/assets/steam.svg"></a>
@@ -125,6 +140,7 @@
 </p>
 
 ## Exploring
+
 <p>
   <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/main/assets/react.svg" ></a>
   <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/main/assets/golang.svg"></a>
@@ -154,12 +170,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=amortx&show_icons=true&theme=vue-dark" />
 
   <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=amortx&show_icons=true&theme=vue#gh-light-mode-only" /> -->
-
   <!-- [![Amortx's GitHub stats](https://github-readme-stats.vercel.app/api?username=amortx&show_icons=true&theme=vue-dark)](https://github.com/amortx) -->
   <!-- &theme=swift&hide=contribs,prs -->
-
+  
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amortx&hide=css,html" />
-
   <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amortx&hide=css,html)](https://github.com/amortx) -->
 </p>
 
@@ -169,7 +183,6 @@
 
 
 <p>
-
   <a href= "https://github.com/amortx/coding-interview-university">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=amortx&repo=coding-interview-university&hide_border" >
   </a>
@@ -192,8 +205,6 @@
 <!-- <h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I like to write in <s>Python</s> Code and I'm exploring Cloud Tech 🐍 ☁️ </samp></h4> -->
 
 
-
-
 ```text
 Python          3 hrs 31 mins   ██████████████░░░░░░░░░░    58.33 %
 Java            1 hrs 32 mins   ██████░░░░░░░░░░░░░░░░░░    25.00 %
@@ -205,7 +216,6 @@ Others                31 mins   ██░░░░░░░░░░░░░░
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=amortx"/></p>
 
 <p align="center"><img src="https://github.com/amortx/amortx/blob/main/assets/github-contribution-grid-snake.svg" /></p>
-
 
 
 [![](https://img.shields.io/github/followers/amortx?style=social)](https://github.com/amortx)
