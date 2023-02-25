@@ -6,6 +6,10 @@
 
 ---
 
+<div>
+<img width="100" src="https://github.com/amortx/amortx/blob/main/assets/taxi-print.png">
+</div>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=times&weight=500&pause=1000&color=004088&center=true&vCenter=true&multiline=true&height=65&lines=This+is+amortx's+github+homepage;Welcome+to+My+Home+Page)](https://amortx.github.io/amortx)
 
 <p align="center">
@@ -31,7 +35,8 @@
 </div>
 
 
-## Tech Stack
+## Tech Stack <img width="100" src="https://github.com/amortx/amortx/blob/main/assets/taxi-function.png">
+
 ### Program
 <div>
 <img width="33" src="https://github.com/amortx/amortx/blob/main/assets/bash.svg">
@@ -79,7 +84,6 @@
 <img width="33" src="https://github.com/amortx/amortx/blob/main/assets/mysql.svg">
 <img width="33" src="https://github.com/amortx/amortx/blob/main/assets/postgresql.svg">
 <img width="33" src="https://github.com/amortx/amortx/blob/main/assets/redis.svg">
-<img width="33" src="https://github.com/amortx/amortx/blob/main/assets/mariadb.svg">
 </div>
 
 ### Tools
@@ -113,6 +117,12 @@
 <img width="33" src="https://github.com/amortx/amortx/blob/main/assets/netflix.gif">
 </div>
 
+<div align="center">
+  <img width="48" src="https://github.com/amortx/amortx/blob/main/assets/taxi-do.png">
+  <img width="48" src="https://github.com/amortx/amortx/blob/main/assets/Rockets.gif">
+  <img width="48" src="https://github.com/amortx/amortx/blob/main/assets/taxi-while.png">
+</div>
+
 ## Exploring
 <div>
 <img style="filter: drop-shadow(1000px 0 0 #61DAFB); transform: translate(-1000px);" src="https://github.com/amortx/amortx/blob/main/assets/react.svg" width="30">
@@ -133,10 +143,10 @@
 <div align="center">
     <a href="https://github.com/amortx"><img  width="33" src="https://github.com/amortx/amortx/blob/main/assets/gmail.svg"/></img></a>
     <a href="https://github.com/amortx"><img  width="33" src="https://github.com/amortx/amortx/blob/main/assets/telegram.gif#gh-light-mode-only"/></img></a>
-    <a href="https://github.com/amortx"><img  width="33" src="https://github.com/amortx/amortx/blob/main/assets/telegram-dark.svg#gh-dark-mode-only"/></img></a>
+    <a href="https://github.com/amortx"><img  width="33" src="https://github.com/amortx/amortx/blob/main/assets/twitter.svg#gh-dark-mode-only"/></img></a>
 </div>
 
-### GitHub stats
+### GitHub stats <img width="48" src="https://github.com/amortx/amortx/blob/main/assets/taxi-var.png">
 
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=amortx&show_icons=true&theme=vue-dark" />
@@ -192,6 +202,8 @@ Others                31 mins   ██░░░░░░░░░░░░░░
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=amortx"/></div>
 
+<div align="center"><img src="https://github.com/amortx/amortx/blob/main/assets/github-contribution-grid-snake.svg" /></div>
+
 <div>
 
 [![](https://img.shields.io/github/followers/amortx?style=social)](https://github.com/amortx)
@@ -201,6 +213,7 @@ Others                31 mins   ██░░░░░░░░░░░░░░
 [![](https://visitor-badge.glitch.me/badge?page_id=amortx.amortx)](https://github.com/amortx)
 
 </div>
+
 <!--
 **amortx/amortx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
