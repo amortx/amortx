@@ -136,8 +136,8 @@
 </p>
 
 <p align="center">
-  <a href= "https://github.com/amortx"><img align="middle" width="600" src="https://github.com/amortx/amortx/blob/main/assets/middleware.svg#gh-light-mode-only"></a>
-  <a href= "https://github.com/amortx"><img align="middle" width="600"  src="https://github.com/amortx/amortx/blob/main/assets/middleware-dark.svg#gh-dark-mode-only"></a>
+  <img align="middle" width="600" src="https://github.com/amortx/amortx/blob/main/assets/middleware.svg#gh-light-mode-only">
+  <img align="middle" width="600"  src="https://github.com/amortx/amortx/blob/main/assets/middleware-dark.svg#gh-dark-mode-only">
 <!--   style="filter: drop-shadow(1000px 0 0 #6DB33F); transform: translate(-1000px);" -->
 </p>
 
