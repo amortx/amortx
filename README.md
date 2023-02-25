@@ -213,7 +213,7 @@ Others                31 mins   ██░░░░░░░░░░░░░░
 ```
 
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=amortx"/></p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=amortx&column=-1"/></p>
 
 <p align="center"><img src="https://github.com/amortx/amortx/blob/main/assets/github-contribution-grid-snake.svg" /></p>
 
