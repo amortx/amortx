@@ -1,9 +1,9 @@
 # Welcome to My Home Pages
 
-<!--  [![](https://github.com/amortx/amortx/blob/main/assets/program.png)](https://github.com/amortx)  -->
+<!--  [![](https://github.com/amortx/amortx/blob/master/assets/program.png)](https://github.com/amortx)  -->
 
 <p align="center">
-  <a href= "https://github.com/amortx"><img src="https://github.com/amortx/amortx/blob/main/assets/program.png"/></a>
+  <a href= "https://github.com/amortx"><img src="https://github.com/amortx/amortx/blob/master/assets/program.png"/></a>
 </p>
 
   <!-- <a href= "https://github.com/amortx"><img align="center" src="assets/program.png"></a> -->
@@ -11,7 +11,7 @@
 ---
 
 <p>
-  <a href= "https://github.com/amortx"><img width="100" src="https://github.com/amortx/amortx/blob/main/assets/taxi-print.png"></a>
+  <a href= "https://github.com/amortx"><img width="100" src="https://github.com/amortx/amortx/blob/master/assets/taxi-print.png"></a>
 <p>
 
 
@@ -19,11 +19,11 @@
 
 
 <p align="center">
-  <a href= "https://github.com/amortx"><img width="300" src="https://github.com/amortx/amortx/blob/main/assets/coder.gif"></a>
+  <a href= "https://github.com/amortx"><img width="300" src="https://github.com/amortx/amortx/blob/master/assets/coder.gif"></a>
 </p>
 
 
-## <a href= "https://github.com/amortx"><img width="30" src="https://github.com/amortx/amortx/blob/main/assets/google-scholar.svg"></a> Research Direction
+## <a href= "https://github.com/amortx"><img width="30" src="https://github.com/amortx/amortx/blob/master/assets/google-scholar.svg"></a> Research Direction
 
 <!-- <img src="assets/googlescholar.svg#gh-dark-mode-only" width="30"> -->
 <!-- #gh-light-mode-only -->
@@ -34,137 +34,137 @@
 ## Deep Learning
 
 <p>
-  <a href= "https://github.com/amortx"><img width="30" src="https://github.com/amortx/amortx/blob/main/assets/pytorch.svg"></a>
-  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/main/assets/tensorflow.svg"></a>
-  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/main/assets/numpy.svg"></a>
-  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/main/assets/opencv.svg"></a>
-  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/main/assets/pandas.svg"></a>
+  <a href= "https://github.com/amortx"><img width="30" src="https://github.com/amortx/amortx/blob/master/assets/pytorch.svg"></a>
+  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/master/assets/tensorflow.svg"></a>
+  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/master/assets/numpy.svg"></a>
+  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/master/assets/opencv.svg"></a>
+  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/master/assets/pandas.svg"></a>
 </p>
 
 
-## Tech Stack <img width="100" src="https://github.com/amortx/amortx/blob/main/assets/taxi-function.png">
+## Tech Stack <img width="100" src="https://github.com/amortx/amortx/blob/master/assets/taxi-function.png">
 
 ### Program
 
 <p>
-  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/main/assets/bash.svg"></a>
-  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/main/assets/c.svg"></a>
-  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/main/assets/csharp.svg"></a>
-  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/main/assets/cpp.svg"></a>
-  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/main/assets/css3.svg"></a>
-  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/main/assets/html5.svg"></a>
-  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/main/assets/javascript.gif"></a>
-  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/main/assets/java.gif"></a>
-  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/main/assets/python.gif"></a>
+  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/master/assets/bash.svg"></a>
+  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/master/assets/c.svg"></a>
+  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/master/assets/csharp.svg"></a>
+  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/master/assets/cpp.svg"></a>
+  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/master/assets/css3.svg"></a>
+  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/master/assets/html5.svg"></a>
+  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/master/assets/javascript.gif"></a>
+  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/master/assets/java.gif"></a>
+  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/master/assets/python.gif"></a>
 </p>
 
 ### BigData
 
 <p>
-  <a href= "https://github.com/amortx"><img width="48" src="https://github.com/amortx/amortx/blob/main/assets/hadoop.svg"></a>
-  <a href= "https://github.com/amortx"><img width="48" src="https://github.com/amortx/amortx/blob/main/assets/kafka.svg"></a>
+  <a href= "https://github.com/amortx"><img width="48" src="https://github.com/amortx/amortx/blob/master/assets/hadoop.svg"></a>
+  <a href= "https://github.com/amortx"><img width="48" src="https://github.com/amortx/amortx/blob/master/assets/kafka.svg"></a>
 </p>
 
 ### Front-end
 
 
 <p>
-  <a href= "https://github.com/amortx"><img width="48" src="https://github.com/amortx/amortx/blob/main/assets/django.svg"></a>
-  <a href= "https://github.com/amortx"><img width="48" src="https://github.com/amortx/amortx/blob/main/assets/flask.svg"></a>
-  <a href= "https://github.com/amortx"><img width="48" src="https://github.com/amortx/amortx/blob/main/assets/nodejs.svg"></a>
-  <a href= "https://github.com/amortx"><img width="48" src="https://github.com/amortx/amortx/blob/main/assets/npm.svg"></a>
-  <a href= "https://github.com/amortx"><img width="40" src="https://github.com/amortx/amortx/blob/main/assets/vuejs.svg"></a>
+  <a href= "https://github.com/amortx"><img width="48" src="https://github.com/amortx/amortx/blob/master/assets/django.svg"></a>
+  <a href= "https://github.com/amortx"><img width="48" src="https://github.com/amortx/amortx/blob/master/assets/flask.svg"></a>
+  <a href= "https://github.com/amortx"><img width="48" src="https://github.com/amortx/amortx/blob/master/assets/nodejs.svg"></a>
+  <a href= "https://github.com/amortx"><img width="48" src="https://github.com/amortx/amortx/blob/master/assets/npm.svg"></a>
+  <a href= "https://github.com/amortx"><img width="40" src="https://github.com/amortx/amortx/blob/master/assets/vuejs.svg"></a>
 </p>
 
 
 ### Back-end
 
 <p>
-  <a href= "https://github.com/amortx"><img width="42" src="https://github.com/amortx/amortx/blob/main/assets/spring.svg"></a>
-  <a href= "https://github.com/amortx"><img width="42" src="https://github.com/amortx/amortx/blob/main/assets/springboot.svg" ></a>
+  <a href= "https://github.com/amortx"><img width="42" src="https://github.com/amortx/amortx/blob/master/assets/spring.svg"></a>
+  <a href= "https://github.com/amortx"><img width="42" src="https://github.com/amortx/amortx/blob/master/assets/springboot.svg" ></a>
 </p>
 
 ### Middleware
 <p>
-  <a href= "https://github.com/amortx"><img width="48" src="https://github.com/amortx/amortx/blob/main/assets/kafka.svg"></a>
-  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/main/assets/nginx.svg"></a>
+  <a href= "https://github.com/amortx"><img width="48" src="https://github.com/amortx/amortx/blob/master/assets/kafka.svg"></a>
+  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/master/assets/nginx.svg"></a>
 </p>
 
 ### Databases
 
 <p>
-  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/main/assets/mariadb.svg"></a>
-  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/main/assets/mongodb.svg"></a>
-  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/main/assets/mysql.svg"></a>
-  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/main/assets/postgresql.svg"></a>
-  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/main/assets/redis.svg"></a>
+  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/master/assets/mariadb.svg"></a>
+  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/master/assets/mongodb.svg"></a>
+  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/master/assets/mysql.svg"></a>
+  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/master/assets/postgresql.svg"></a>
+  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/master/assets/redis.svg"></a>
 </p>
 
 ### Tools
 
 <p>
-  <a href= "https://github.com/amortx"><img width="35" src="https://github.com/amortx/amortx/blob/main/assets/linux.png"></a>
-  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/main/assets/centos.png"></a>
-  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/main/assets/ubuntu.png"></a>
-  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/main/assets/anaconda.svg"></a>
-  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/main/assets/docker.svg"></a>
-  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/main/assets/git.svg"></a>
-  <a href= "https://github.com/amortx"><img width="30" src="https://github.com/amortx/amortx/blob/main/assets/github.svg"></a>
-  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/main/assets/googleearth.svg"></a>
-  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/main/assets/jetbrains.svg"></a>
-  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/main/assets/latex.svg"></a>
-  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/main/assets/matlab.svg"></a>
-  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/main/assets/nvidia.svg"></a>
-  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/main/assets/obs.svg"></a>
-  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/main/assets/powerbi.svg"></a>
-  <a href= "https://github.com/amortx"><img width="30" src="https://github.com/amortx/amortx/blob/main/assets/tableau.svg"></a>
-  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/main/assets/visio.svg"></a>
-  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/main/assets/vscode.svg"></a>
+  <a href= "https://github.com/amortx"><img width="35" src="https://github.com/amortx/amortx/blob/master/assets/linux.png"></a>
+  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/master/assets/centos.png"></a>
+  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/master/assets/ubuntu.png"></a>
+  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/master/assets/anaconda.svg"></a>
+  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/master/assets/docker.svg"></a>
+  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/master/assets/git.svg"></a>
+  <a href= "https://github.com/amortx"><img width="30" src="https://github.com/amortx/amortx/blob/master/assets/github.svg"></a>
+  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/master/assets/googleearth.svg"></a>
+  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/master/assets/jetbrains.svg"></a>
+  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/master/assets/latex.svg"></a>
+  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/master/assets/matlab.svg"></a>
+  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/master/assets/nvidia.svg"></a>
+  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/master/assets/obs.svg"></a>
+  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/master/assets/powerbi.svg"></a>
+  <a href= "https://github.com/amortx"><img width="30" src="https://github.com/amortx/amortx/blob/master/assets/tableau.svg"></a>
+  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/master/assets/visio.svg"></a>
+  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/master/assets/vscode.svg"></a>
 </p>
 
 ### others
 
 <p>
-  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/main/assets/epic.svg"></a>
-  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/main/assets/steam.svg"></a>
-  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/main/assets/playstation.svg"></a>
-  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/main/assets/switch.svg"></a>
-  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/main/assets/itunes.svg"></a>
-  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/main/assets/netflix.gif"></a>
+  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/master/assets/epic.svg"></a>
+  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/master/assets/steam.svg"></a>
+  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/master/assets/playstation.svg"></a>
+  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/master/assets/switch.svg"></a>
+  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/master/assets/itunes.svg"></a>
+  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/master/assets/netflix.gif"></a>
 </p>
 
 <p align="center">
-  <a href= "https://github.com/amortx"><img width="48" src="https://github.com/amortx/amortx/blob/main/assets/taxi-do.png"></a>
-  <a href= "https://github.com/amortx"><img width="48" src="https://github.com/amortx/amortx/blob/main/assets/Rockets.gif"></a>
-  <a href= "https://github.com/amortx"><img width="48" src="https://github.com/amortx/amortx/blob/main/assets/taxi-while.png"></a>
+  <a href= "https://github.com/amortx"><img width="48" src="https://github.com/amortx/amortx/blob/master/assets/taxi-do.png"></a>
+  <a href= "https://github.com/amortx"><img width="48" src="https://github.com/amortx/amortx/blob/master/assets/Rockets.gif"></a>
+  <a href= "https://github.com/amortx"><img width="48" src="https://github.com/amortx/amortx/blob/master/assets/taxi-while.png"></a>
 </p>
 
 ## Exploring
 
 <p>
-  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/main/assets/react.svg" ></a>
-  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/main/assets/golang.svg"></a>
-  <a href= "https://github.com/amortx"><img width="58" src="https://github.com/amortx/amortx/blob/main/assets/flink.svg"></a>
-  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/main/assets/kubernetes.svg"></a>
-  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/main/assets/rust.svg"></a>
-  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/main/assets/swift.svg"></a>
-  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/main/assets/typescript.svg"></a>
+  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/master/assets/react.svg" ></a>
+  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/master/assets/golang.svg"></a>
+  <a href= "https://github.com/amortx"><img width="58" src="https://github.com/amortx/amortx/blob/master/assets/flink.svg"></a>
+  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/master/assets/kubernetes.svg"></a>
+  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/master/assets/rust.svg"></a>
+  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/master/assets/swift.svg"></a>
+  <a href= "https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/master/assets/typescript.svg"></a>
 </p>
 
 <p align="center">
-  <img align="middle" width="600" src="https://github.com/amortx/amortx/blob/main/assets/middleware.svg#gh-light-mode-only">
-  <img align="middle" width="600"  src="https://github.com/amortx/amortx/blob/main/assets/middleware-dark.svg#gh-dark-mode-only">
+  <img align="middle" width="600" src="https://github.com/amortx/amortx/blob/master/assets/middleware.svg#gh-light-mode-only">
+  <img align="middle" width="600"  src="https://github.com/amortx/amortx/blob/master/assets/middleware-dark.svg#gh-dark-mode-only">
 <!--   style="filter: drop-shadow(1000px 0 0 #6DB33F); transform: translate(-1000px);" -->
 </p>
 
 
 <p align="center">
-    <a href="https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/main/assets/gmail.svg"/></img></a>
-    <a href="https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/main/assets/telegram.gif"/></img></a>
-    <img width="33" src="https://github.com/amortx/amortx/blob/main/assets/twitter.svg#gh-dark-mode-only"/></img>
+    <a href="https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/master/assets/gmail.svg"/></img></a>
+    <a href="https://github.com/amortx"><img width="33" src="https://github.com/amortx/amortx/blob/master/assets/telegram.gif"/></img></a>
+    <img width="33" src="https://github.com/amortx/amortx/blob/master/assets/twitter.svg#gh-dark-mode-only"/></img>
 </p>
 
-### GitHub stats <img width="48" src="https://github.com/amortx/amortx/blob/main/assets/taxi-var.png">
+### GitHub stats <img width="48" src="https://github.com/amortx/amortx/blob/master/assets/taxi-var.png">
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=amortx&show_icons=true&theme=vue-dark" />
@@ -216,7 +216,7 @@ Others                30 mins   ██░░░░░░░░░░░░░░
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=amortx&column=-1"/></p>
 
-<p align="center"><img src="https://github.com/amortx/amortx/blob/main/assets/github-contribution-grid-snake.svg" /></p>
+<p align="center"><img src="https://github.com/amortx/amortx/blob/master/assets/github-contribution-grid-snake.svg" /></p>
 
 
 [![](https://img.shields.io/github/followers/amortx?style=social)](https://github.com/amortx)
