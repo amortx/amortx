@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href= "https://github.com/amortx"><img src="https://github.com/amortx/amortx/blob/main/assets/program.png"/></a>
-<a href= "https://github.com/amortx"><img src="https://github.com/amortx/amortx/blob/master/header.png"/></a>
+  <a href= "https://github.com/amortx"><img src="https://raw.githubusercontent.com/amortx/amortx/blob/main/assets/program.png"/></a>
 </p>
 
   <!-- <a href= "https://github.com/amortx"><img align="center" src="assets/program.png"></a> -->
@@ -207,10 +207,11 @@
 
 
 ```text
-Python          3 hrs 31 mins   ██████████████░░░░░░░░░░    58.33 %
-Java            1 hrs 32 mins   ██████░░░░░░░░░░░░░░░░░░    25.00 %
-JavaScript/CSS        33 mins   ██░░░░░░░░░░░░░░░░░░░░░░    08.34 %
-Others                31 mins   ██░░░░░░░░░░░░░░░░░░░░░░    08.33 %
+Python          2 hrs 33 mins   ██████████████░░░░░░░░░░    39.23 %
+Java            1 hrs 32 mins   ██████░░░░░░░░░░░░░░░░░░    23.59 %
+golang          1 hrs 25 mins   ██████░░░░░░░░░░░░░░░░░░    21.80 %
+JavaScript/CSS        30 mins   ██░░░░░░░░░░░░░░░░░░░░░░    07.69 %
+Others                30 mins   ██░░░░░░░░░░░░░░░░░░░░░░    07.69 %
 ```
 
 
