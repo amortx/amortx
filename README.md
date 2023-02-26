@@ -82,6 +82,7 @@
 <p>
   <a href= "https://github.com/amortx"><img width="42" src="https://github.com/amortx/amortx/blob/master/assets/spring.svg"></a>
   <a href= "https://github.com/amortx"><img width="42" src="https://github.com/amortx/amortx/blob/master/assets/springboot.svg" ></a>
+  <a href= "https://github.com/amortx"><img width="46" src="https://github.com/amortx/amortx/blob/master/assets/springcloud.png" ></a>
 </p>
 
 ### Middleware
@@ -154,6 +155,7 @@
 <p align="center">
   <img align="middle" width="600" src="https://github.com/amortx/amortx/blob/master/assets/middleware.svg#gh-light-mode-only">
   <img align="middle" width="600"  src="https://github.com/amortx/amortx/blob/master/assets/middleware-dark.svg#gh-dark-mode-only">
+  <a href= "https://github.com/amortx"><img align="middle" src="https://github.com/amortx/amortx/blob/master/assets/mad2023.png"></a>
 <!--   style="filter: drop-shadow(1000px 0 0 #6DB33F); transform: translate(-1000px);" -->
 </p>
 
