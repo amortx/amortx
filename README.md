@@ -154,7 +154,7 @@
 
 <p align="center">
   <img align="middle" width="600" src="https://amortx.github.io/amortx/assets/middleware.svg#gh-light-mode-only">
-  <img align="middle" width="600" src="https://amortx.github.io/amortx/assets/mad2023.png">
+  <img align="middle" src="https://amortx.github.io/amortx/assets/mad2023.png">
 <!--   style="filter: drop-shadow(1000px 0 0 #6DB33F); transform: translate(-1000px);" -->
 </p>
 
