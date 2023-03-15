@@ -174,7 +174,7 @@
   <!-- [![Amortx's GitHub stats](https://github-readme-stats.vercel.app/api?username=amortx&show_icons=true&theme=vue-dark)](https://github.com/amortx) -->
   <!-- &theme=swift&hide=contribs,prs -->
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amortx" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amortx&layout=compact" />
   <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amortx&hide=css,html)](https://github.com/amortx) -->
 </p>
 
@@ -219,13 +219,14 @@ Others                30 mins   ██░░░░░░░░░░░░░░
 
 <p align="center"><img src="https://amortx.github.io/amortx/assets/github-contribution-grid-snake.svg" /></p>
 
+<p align="center"><img src="https://amortx.github.io/amortx/profile-3d-contrib/profile-gitblock.svg" /></p>
 
 [![](https://img.shields.io/github/followers/amortx?style=social)](https://github.com/amortx)
 
 [![](https://img.shields.io/badge/Follow@amortx-2921-%23FD415E?&logo=github)](https://github.com/amortx)
 [![TOP](https://img.shields.io/badge/amor-tx-blue?style=social&logo=apple)](#welcome-to-my-home-pages)
 
-[![](https://visitor-badge.glitch.me/badge?page_id=amortx.amortx)](https://github.com/amortx)
+<!-- [![](https://visitor-badge.glitch.me/badge?page_id=amortx.amortx)](https://github.com/amortx) -->
 
 
 
