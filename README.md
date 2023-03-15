@@ -226,7 +226,7 @@ Others                30 mins   ██░░░░░░░░░░░░░░
 [![](https://img.shields.io/badge/Follow@amortx-2921-%23FD415E?&logo=github)](https://github.com/amortx)
 [![TOP](https://img.shields.io/badge/amor-tx-blue?style=social&logo=apple)](#welcome-to-my-home-pages)
 
-<!-- [![](https://visitor-badge.glitch.me/badge?page_id=amortx.amortx)](https://github.com/amortx) -->
+[![](https://visitor-badge.glitch.me/badge?page_id=amortx.amortx)](https://github.com/amortx)
 
 
 
