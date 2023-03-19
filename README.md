@@ -221,6 +221,19 @@ Others                30 mins   ██░░░░░░░░░░░░░░
 
 <p align="center"><img src="https://amortx.github.io/amortx/profile-3d-contrib/profile-gitblock.svg" /></p>
 
+<!-- <p>
+
+## Starchart
+
+[![Star History Chart](https://api.star-history.com/svg?repos=amortx/amortx&type=Date)](https://star-history.com/#amortx/amortx&Date)
+
+## Contributors
+
+<a href="https://github.com/amortx/amortx/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=amortx/amortx" />
+</a>
+</p> -->
+
 [![](https://img.shields.io/github/followers/amortx?style=social)](https://github.com/amortx)
 
 [![](https://img.shields.io/badge/Follow@amortx-2921-%23FD415E?&logo=github)](https://github.com/amortx)
