@@ -176,7 +176,9 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amortx&layout=compact" />
   <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amortx&hide=css,html)](https://github.com/amortx) -->
+  
 </p>
+
 
 ### GitHub Ropes
 
@@ -207,7 +209,7 @@
 
 
 ```text
-Python          2 hrs 33 mins   ██████████████░░░░░░░░░░    39.23 %
+Python          2 hrs 33 mins   █████████░░░░░░░░░░░░░░░    39.23 %
 Java            1 hrs 32 mins   ██████░░░░░░░░░░░░░░░░░░    23.59 %
 Golang          1 hrs 25 mins   ██████░░░░░░░░░░░░░░░░░░    21.80 %
 JavaScript/CSS        30 mins   ██░░░░░░░░░░░░░░░░░░░░░░    07.69 %
