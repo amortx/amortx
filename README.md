@@ -219,9 +219,9 @@ Others                30 mins   ██░░░░░░░░░░░░░░
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=amortx&column=-1"/></p>
 
-<p align="center"><img src="https://amortx.github.io/amortx/assets/github-contribution-grid-snake.svg" /></p>
+<p align="center"><img src="./assets/github-contribution-grid-snake.svg" /></p>
 
-<p align="center"><img src="https://amortx.github.io/amortx/profile-3d-contrib/profile-gitblock.svg" /></p>
+<p align="center"><img src="./profile-3d-contrib/profile-gitblock.svg" /></p>
 
 
 
